@@ -16,7 +16,7 @@ I struggled with Visual Studio Code.  I fought with Hardhat, Brownie, and assort
 
 The hackathon has been inspiring, frustrating, humbling, and life-changing.  CryptoZombies and Buildspace are now honorary members of Team Corealis.
 
-If you're new to Web3, keep grinding.  Leveling up is never easy but always rewarding, and Web3 is an incredible space to explore, dream, learn, and grow. 💚  
+If you're new to Web3, keep grinding.  Leveling up is often difficult but always rewarding, and Web3 is an incredible space to explore, dream, learn, and grow. 💚  
 
 
 
