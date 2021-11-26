@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!  Through words and code, this space documents my journey as a developer.  🗺️
 
-A year ago, the most creative thing I was doing with my computer was building google slide decks.  Admittedly, some of them were pretty amazing, but they were still just slide decks.
+A year ago, the most creative thing I was doing was building google slide decks.  Admittedly, some of them were pretty amazing, but they were still just slide decks.
 
 Now I'm building smart contracts and the websites that let users interact with them.  I'm not quite ready for the bigtime, but I've accomplished a lot in just 5 months.
 
