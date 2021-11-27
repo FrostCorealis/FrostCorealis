@@ -10,7 +10,7 @@ Back in June, I started working in Codecademy to dust off my HTML & CSS skills, 
 
 My teammate, Storm, is a game designer, a tokenomics analyst, and an expert blockchain navigator.  He dreamed up RainCatcher and is creating the art for it.  I'm learning the skills to make RainCatcher work on the blockchain.
 
-In preparation for the Hackathon, I spent a lot of time reading Solidity and Chainlink docs, and when Patrick Collins' YouTube video came out, I watched it and coded along.  More than once.  Storm and I made sketches and flowcharts as we worked on RainCatcher's architecture.
+In preparation for the Hackathon, I spent a lot of time reading Solidity and Chainlink docs, going to workshops, and watching YouTube videos.  Storm and I made sketches and flowcharts as we worked on RainCatcher's architecture.
 
 I struggled with Visual Studio Code.  I fought with Hardhat, Brownie, and assorted other installs, but with help from Storm, who is more experienced with the terminal than I, Visual Studio Code has been tamed.  For the most part.
 
