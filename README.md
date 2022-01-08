@@ -2,21 +2,15 @@
 
 Welcome to my GitHub!  Through words and code, this space documents my journey as a developer.  🗺️
 
-A year ago, the most creative thing I was doing was building google slide decks.  Admittedly, some of them were pretty amazing, but they were still just slide decks.
+Not too long ago, the most creative thing I was doing was building google slide decks.  Admittedly, some of them were pretty amazing, but they were still just slide decks.
 
 Now I'm building smart contracts and the websites that let users interact with them.  I'm not quite ready for the bigtime, but I've accomplished a lot in just 5 months.
 
-Back in June, I started working in Codecademy to dust off my HTML & CSS skills, update my knowledge of JavaScript, and learn Python.  In July, I went to the Chainlink Bootcamp, and decided to sign up for the Chainlink Hackathon.  At the time, I knew I had a lot of Solidity to learn before the Hackathon, but what I didn't know was how very much I didn't know. 🙂
+In June of 2020, I started working in Codecademy to dust off my HTML & CSS skills, update my knowledge of JavaScript, and learn Python.  In July, I went to the Chainlink Bootcamp, and decided to sign up for the Chainlink Hackathon.  At the time, I knew I had a lot of Solidity to learn before the Hackathon, but what I didn't know was how very much I didn't know. 🙂
 
-My teammate, Storm, is a game designer, a tokenomics analyst, and an expert blockchain navigator.  He dreamed up RainCatcher and is creating the art for it.  I'm learning the skills to make RainCatcher work on the blockchain.
+Finding Buildspace changed everything for me!!  Buildspace provids practical applications for all my reading and Codecademy practicing.  Buildspace is a beautifully structured sandbox in which to tinker, and an amazing community full of devs who are learning together and helping and inspiring each other.  It's a wonderful place to be. 
 
-In preparation for the Hackathon, I spent a lot of time reading Solidity and Chainlink docs, going to workshops, and watching YouTube videos.  Storm and I made sketches and flowcharts as we worked on RainCatcher's architecture.
-
-I struggled with Visual Studio Code.  I fought with Hardhat, Brownie, and assorted other installs, but with help from Storm, who is more experienced with the terminal than I, Visual Studio Code has been tamed.  For the most part.
-
-The hackathon has been inspiring, frustrating, humbling, and life-changing.  CryptoZombies and Buildspace are now honorary members of Team Corealis.
-
-If you're new to Web3, keep grinding.  Leveling up is often difficult but always rewarding, and Web3 is an incredible space to explore, dream, learn, and grow. 💚  
+If you're new to Web3, keep grinding.  Leveling up can be challenging but it's always rewarding, and Web3 is an incredible space to explore, dream, learn, and grow. 💚  
 
 
 
