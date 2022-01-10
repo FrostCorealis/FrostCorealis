@@ -4,7 +4,7 @@ Welcome to my GitHub!  Through words and code, this space documents my journey a
 
 Not too long ago, the most creative thing I was building was google slide decks.  Admittedly, some of them were pretty amazing, but they were still just slide decks.  I missed building websites, and I felt really stuck so...I took a risk and made a BIG change.
 
-In June of 2021, I started working in Codecademy to dust off my HTML & CSS skills, update my knowledge of JavaScript, and learn Python.  In July, I went to the Chainlink Bootcamp, and after that, I decided to sign up for the Chainlink Fall Hackathon.  At the time, I knew I had a lot of Solidity to learn before the Hackathon, but what I didn't know was how very much I didn't know. 🙂
+In June of 2021, I started working in Codecademy to dust off my HTML & CSS skills, update my knowledge of JavaScript, and learn Python.  In July, I went to the Chainlink Bootcamp, and after that, I decided to sign up for the Chainlink Fall Hackathon.  In preparation for the hackathon, I read Solidity docs, and Chainlink docs, and spent a lot of time with CryptoZombies. 🧟
 
 Finding Buildspace changed everything for me.  Suddenly I had real projects to debug + practical applications for the code I'd been learning.  Buildspace is a beautifully structured sandbox in which to tinker, and an amazing community full of devs who are learning together and helping and inspiring each other.  It's a wonderful place to be. 
 
