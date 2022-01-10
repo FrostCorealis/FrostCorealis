@@ -8,7 +8,7 @@ In June of 2021, I started working in Codecademy to dust off my HTML & CSS skill
 
 Finding Buildspace changed everything for me.  Suddenly I had real projects to debug + practical applications for the code I'd been learning.  Buildspace is a beautifully structured sandbox in which to tinker, and an amazing community full of devs who are learning together and helping and inspiring each other.  It's a wonderful place to be. 
 
-Rolling into 2022, I have some loose goals.  There are projects here that need to be cleaned up and expanded, and I recently started learning React.  There are new things on CryptoZombies + experiments I want to try with what I've learned there.  I've accomplished a lot in 6 months.  The next 6 months will be about tinkering, hacking, imagining, polishing, and exploring.
+Rolling into 2022, I have some loose goals.  There are projects here that need to be cleaned up and expanded, and I recently started learning React.  There are new things on CryptoZombies + experiments I want to try with what I've learned there, and a couple of upcoming Buildspace workshops.  I've accomplished a lot in 6 months.  The next 6 months will be about tinkering, hacking, imagining, polishing, and exploring.
 
 If you're new to Web3, keep grinding.  Leveling up can be challenging but it's always rewarding, and Web3 is an incredible space to explore, dream, learn, and grow. 💚  
 
