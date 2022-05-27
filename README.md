@@ -1,16 +1,16 @@
 ### Hi!  I'm Frost. ✨ 
 
-#### Welcome to my GitHub!  Through words and code, this space documents my journey as a developer.  🗺️
+Welcome to my GitHub!  Through words and code, this space documents my journey as a developer.  🗺️
 
-If you're new to Web3, keep grinding.  Leveling up can be challenging but it's always rewarding, and Web3 is an incredible space to explore, dream, learn, and grow. 🌿
-
-
-
-**May 27, 2022**:
+*If you're new to Web3, keep grinding.  Leveling up can be challenging but it's always rewarding, and Web3 is an incredible space to explore, dream, learn, and grow.* 🌿
 
 
 
-**January 10, 2022**:
+#### **May 27, 2022**:
+
+
+
+#### **January 10, 2022**:
 
 Not too long ago, the most creative thing I was building was google slide decks.  Admittedly, some of them were pretty amazing, but they were still just slide decks.  I missed building websites, and I felt really stuck so...I took a risk and made a BIG change.
 
