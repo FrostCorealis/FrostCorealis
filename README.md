@@ -1,4 +1,4 @@
-## Hi!  I'm Frost. ☕✨ 
+## Hi!  I'm Frost.  ☕✨ 
 
 Welcome to my GitHub!  Through words and code, this space documents my journey as a developer.  🗺️
 
