@@ -10,9 +10,9 @@ Welcome to my GitHub!  Through words and code, this space documents my journey a
 
 Our second Chainlink Hackathon is in the books.  For our first Chainlink Hackathon, back in November 2021, we submitted a Chainlink VRF project.  Yesterday, we submitted an incomplete external adaptor.  Today, a new, more focused leg of my journey begins.
 
-During the past year, I've watched the Chainlink docs and tutorials evolve.  My technical understanding and ability to read & write Solidity have grown a bit since I studied the Chainlink docs last summer.  This summer, I'll be working through the updated docs and tutorials with a fresh perspective.
+During the past year, I've watched the Chainlink docs and tutorials evolve.  My technical understanding and ability to read & write Solidity have grown a bit since I studied the Chainlink docs and went through boot camp last summer.  This summer, I'll be working through the updated docs and tutorials with a fresh perspective.
 
-As much as I love learning & practicing Solidity & React, I need to cultivate balance in my learning.  There are definitely some gaps in my foundational knowledge, and I will be a better Solidity dev if I work on filling them.
+Cultivating balance in my learning is important, though.  As much as I love learning & practicing Solidity & React, there are definitely some gaps in my foundational knowledge.  I will be a better Solidity dev if I get serious about filling them.
 
 In three weeks, it will be my 1 year anniversary with Codecademy.  My 'current streak' is 165 days, and when my anniversary arrives, my Total Days Practiced will be 359 of 365.  Some of those are flashcard days, some are quick flashcard days while I was learning from other sources, and some are days of in-depth work.  Heading into my second year with Codecademy, it's time to fill in (some of!) the gaps in my foundation.  To start, I'll be learning Node.js, working through the Full-Stack Engineer career path, and taking a quick dive into the Fundamentals of Cybersecurity course.
 
