@@ -16,9 +16,9 @@ Cultivating balance in my learning is important, though.  As much as I love lear
 
 In three weeks, it will be my 1 year anniversary with Codecademy.  My 'current streak' is 165 days, and when my anniversary arrives, my Total Days Practiced will be 359 of 365.  Some of those are flashcard days, some are quick flashcard days while I was learning from other sources, and some are days of in-depth work.  Heading into my second year with Codecademy, it's time to fill in (some of!) the gaps in my foundation.  To start, I'll be learning Node.js, working through the Full-Stack Engineer career path, and taking a quick dive into the Fundamentals of Cybersecurity course.
 
-I also need to go back to Python.  I'm much stronger in JavaScript, but...it would be good for me to develop compenence in Python.
+I also need to go back to Python.  I'm much stronger in JavaScript, but...it would be good for me to develop competence in Python.
 
-So.  Chainlink docs + Codecademy paths...both with focus & purpose. ✨   
+So.  Chainlink docs & YouTube videos (both hackathons have some seriously good material to rewatch!) + Codecademy paths...with focus & purpose. ✨   
 
 
 
