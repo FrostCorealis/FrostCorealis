@@ -8,7 +8,7 @@ Welcome to my GitHub!  Through words and code, this space documents my journey a
 
 ### May 27, 2022:
 
-Our second Chainlink Hackathon is in the books.  Back in November, we submitted a Chainlink VRF project.  Yesterday, we submitted an incomplete external adaptor.  Today, a new, more focused leg of my journey begins.
+Our second Chainlink Hackathon is in the books.  For our first Chainlink Hackathon, back in November 2021, we submitted a Chainlink VRF project.  Yesterday, we submitted an incomplete external adaptor.  Today, a new, more focused leg of my journey begins.
 
 During the past year, I've watched the Chainlink docs and tutorials evolve.  My technical understanding and ability to read & write Solidity have grown a bit since I studied the Chainlink docs last summer.  This summer, I'll be working through the updated docs and tutorials with a fresh perspective.
 
