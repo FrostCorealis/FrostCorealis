@@ -12,9 +12,11 @@ Our second Chainlink Hackathon is in the books.  For our first Chainlink Hackath
 
 During the past year, I've watched the Chainlink docs and tutorials evolve.  My technical understanding and ability to read & write Solidity have grown a bit since I studied the Chainlink docs last summer.  This summer, I'll be working through the updated docs and tutorials with a fresh perspective.
 
-I need to cultivate balance in my learning as there are definitely some gaps in my foundational knowledge.
+As much as I love learning & practicing Solidity & React, I need to cultivate balance in my learning.  There are definitely some gaps in my foundational knowledge, and I will be a better Solidity dev if I work on filling them.
 
-In three weeks, it will be my 1 year anniversary with Codecademy.  My 'current streak' is 165 days, and when my anniversary arrives, my Total Days Practiced will be 359 of 365.  Some of those are quick flashcard days, some are quick flashcard days while I was learning from other sources, and some are days of in-depth work.  Heading into my second year with Codecademy, it's time to fill in (some of!) the gaps in my foundation.  To start, I'll be learning Node.js, working through the Full-Stack Engineer career path, and taking a quick dive into their Fundamentals of Cybersecurity course.
+In three weeks, it will be my 1 year anniversary with Codecademy.  My 'current streak' is 165 days, and when my anniversary arrives, my Total Days Practiced will be 359 of 365.  Some of those are flashcard days, some are quick flashcard days while I was learning from other sources, and some are days of in-depth work.  Heading into my second year with Codecademy, it's time to fill in (some of!) the gaps in my foundation.  To start, I'll be learning Node.js, working through the Full-Stack Engineer career path, and taking a quick dive into the Fundamentals of Cybersecurity course.
+
+I also need to go back to Python.  I'm much stronger in JavaScript, but...it would be good for me to develop compenence in Python.
 
 So.  Chainlink docs + Codecademy paths...both with focus & purpose. ✨   
 
