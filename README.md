@@ -1,4 +1,4 @@
-## Hi!  I'm Frost. ✨ 
+## Hi!  I'm Frost. ☕✨ 
 
 Welcome to my GitHub!  Through words and code, this space documents my journey as a developer.  🗺️
 
@@ -6,7 +6,7 @@ Welcome to my GitHub!  Through words and code, this space documents my journey a
 
 
 
-### **May 27, 2022**:
+### May 27, 2022:
 
 Our second Chainlink Hackathon is in the books.  Back in November, we submitted a Chainlink VRF project.  Yesterday, we submitted an incomplete external adaptor.  Today, a new, more focused leg of my journey begins.
 
@@ -20,7 +20,7 @@ So.  Chainlink docs + Codecademy paths...both with focus & purpose. ✨
 
 
 
-### **January 10, 2022**:
+### January 10, 2022:
 
 Not too long ago, the most creative thing I was building was google slide decks.  Admittedly, some of them were pretty amazing, but they were still just slide decks.  I missed building websites, and I felt really stuck so...I took a risk and made a BIG change.
 
