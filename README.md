@@ -14,7 +14,7 @@ During the past year, I've watched the Chainlink docs and tutorials evolve.  My 
 
 My learning needs balance as there are definitely some gaps in my foundational knowledge.
 
-In three weeks, it will be my 1 year anniversary with Codecademy.  My current streak is 165 days, and when my anniversary arrives, my Total Days Practiced will be 359 of 365.  Some of those are quick flashcard days, some are quick flashcard days while I was learning from other sources, and some are days of in-depth work.  Heading into my second year with Codecademy, it's time to fill in those gaps in my foundation.  To start, I'll be learning Node.js, working through the Full-Stack Engineer career path, and taking a quick dive into their Fundamentals of Cybersecurity course.
+In three weeks, it will be my 1 year anniversary with Codecademy.  My 'current streak' is 165 days, and when my anniversary arrives, my Total Days Practiced will be 359 of 365.  Some of those are quick flashcard days, some are quick flashcard days while I was learning from other sources, and some are days of in-depth work.  Heading into my second year with Codecademy, it's time to fill in (some of!) the gaps in my foundation.  To start, I'll be learning Node.js, working through the Full-Stack Engineer career path, and taking a quick dive into their Fundamentals of Cybersecurity course.
 
 So.  Chainlink docs + Codecademy paths...both with focus & purpose. ✨   
 
