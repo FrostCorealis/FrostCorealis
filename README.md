@@ -1,11 +1,13 @@
-## Hi!  I'm Frost. ✨ 
+### Hi!  I'm Frost. ✨ 
 
-### Welcome to my GitHub!  Through words and code, this space documents my journey as a developer.  🗺️
+#### Welcome to my GitHub!  Through words and code, this space documents my journey as a developer.  🗺️
 
 If you're new to Web3, keep grinding.  Leveling up can be challenging but it's always rewarding, and Web3 is an incredible space to explore, dream, learn, and grow. 🌿
 
 
+
 **May 27, 2022**:
+
 
 
 **January 10, 2022**:
