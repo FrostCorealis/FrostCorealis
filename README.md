@@ -4,6 +4,16 @@ Welcome to my GitHub!  Through words and code, this space documents my journey a
 
 *If you're new to Web3, keep grinding!  Leveling up can be challenging but it's always rewarding, and Web3 is an incredible space in which to explore, dream, learn, and grow.* 🌿
 
+### November 17, 2022:
+
+We've come a long way in 15 months!  Submitted our third Chainlink Hackathon project today with great relief and a sense of awe.  We built something complex and useful, and it looks pretty good. 🌵  I've been scraping the rust and dust off my frontend skills, and it turns out my teammate is really, really good with Solidity.  We both have a better understanding of how the frontend and backend share blockchain data.  We've evolved from 'learning to code' to 'we build dapps' and that's an amazing feeling.
+
+Next steps?  Going for a run in the morning for sure.  Apparently Thanksgiving is next week, and it would be good to get a run in before Turkey Trotting.
+
+I'm going to catch up on some sleep and explore Vue in depth.  It might be a better fit for me than React.  My Vue Quest will start here on GitHub, but I think it's time to start a Medium.
+
+Mood: 🤩✨ 
+
 
 
 ### May 27, 2022:
